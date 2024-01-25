@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row flex-nowrap">
+      <div class="bg-dark col-auto col-md-4 col-lg-3 min-vh-100 d-flex flex-column justify-content-betweet">
+        <div class="bg-dark p-2">
+          <a href="" class="d-flex text-decoration-none mt-1 align-items-center text-white">
+            <span class="fs-4 ms-3 d-none d-sm-inline">side menu</span>
+          </a>
+          <ul class="nav nav-pills flex-column mt-4">
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-house"> </i><span
+                  class="fs-4 ms-3 d-none d-sm-inline">Dashboard</span></a>
+            </li>
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-house"> </i><span
+                class="fs-4 ms-3 d-none d-sm-inline">Home</span></a>
+            </li>
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-table-list"> </i><span
+                class="fs-4 ms-3 d-none d-sm-inline">articles</span></a>
+
+            </li>
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-users"> </i><span
+                class="fs-4 ms-3 d-none d-sm-inline">products</span></a>
+
+            </li>
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-clipboard"> </i><span
+                class="fs-4 ms-3 d-none d-sm-inline">orders</span></a>
+
+            </li>
+            <li class="nav-item py-2 py-sm-0">
+              <a href="#" class="nav-link text-white" aria-current="page"><i class="fs-5 fa fa-users"> </i><span
+                class="fs-4 ms-3 d-none d-sm-inline">users</span></a>
+
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
